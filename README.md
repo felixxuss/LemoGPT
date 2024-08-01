@@ -2,6 +2,8 @@
 
 The goal of LemoGPT was to create a simple (variant of a) RAG (Retrieval-Augmented Generation) agent that can summarise the political and social developments in German history based on the information of [Deutsches Historisches Museum](https://www.dhm.de/lemo/) given a specific user question. The reason for the creation of this agent is to help my father write his bibliography.
 
+![picture of the interface](./supplementary/LemoApp.png)
+
 ### API Key
 To use LemoGPT one has to add .env file with a valid OpenAI API Key like this:
 
